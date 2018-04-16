@@ -23,6 +23,6 @@ Gitrepo: https://github.com/virtualanuj/telemetryfn.git
 ### 4. Run your function locally
 fn run
 
-## 5. Test
+### 5. Test
 
-### ab -n 5000 -c 15 'http://localhost:8080/r/info/info -d '{"name":"Go World"}''
+ab -n 5000 -c 15 'http://localhost:8080/r/info/info -d '{"name":"Go World"}''
