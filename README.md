@@ -12,10 +12,13 @@ If you're on a Mac and use Homebrew, this one is for you:
 
 brew install fn
 
-### Run Fn Server
+### 2. Run Fn Server
 Now fire up an Fn server:
 
 fn start
 
-### Clone Repo from Github
+### 3. Clone Repo from Github
+Gitrepo: https://github.com/virtualanuj/telemetryfn.git
 
+### 4. Run your function locally
+fn run
